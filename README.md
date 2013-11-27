@@ -2,7 +2,7 @@ week11
 ======
 
 This weeks lectures will be about parallel programming -- or concurrency as it it
-often known aa -- and interfacing native C code with python.
+often known as -- and interfacing native C code with python.
 
 The lectures notes are the pdf in this repository and the notes at:
 
